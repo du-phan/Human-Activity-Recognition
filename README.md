@@ -11,3 +11,7 @@ Next we will use Viterbi algorithm to find the most probable sequence of activit
 
 The idea and dataset are based on the article “Accurate Activity Recognition in a Home Setting” of Tim van Kasteren, Athanasios Noulas, Gwenn Englebienne and Ben Krose.
 
+We also tried 2 other approaches: one used k-Near Neighbors algorithm and one used Artificial Neural Network. 
+
+The error rate is approximately 25%. 
+
