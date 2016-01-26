@@ -13,5 +13,5 @@ The idea and dataset are based on the article “Accurate Activity Recognition i
 
 We also tried 2 other approaches: one used k-Near Neighbors algorithm and one used Artificial Neural Network. 
 
-The error rate is approximately 25%. 
+The error rate is approximately 20%. 
 
